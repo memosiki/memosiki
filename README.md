@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on a project that either serves and manages user generated content or runs and validates
 code produced by it's users as in an educational platform 
-since such systems has been my main responsibily for the past few years and it's what I'm truly proficient at. Conciseness also.
+since development of such systems has been my main responsibily for the past few years and it's what I'm truly proficient at. Conciseness also.
 
 📫 Reach out to me on [Linkedin](https://www.linkedin.com/in/konstantin-lukashkin/)
 
