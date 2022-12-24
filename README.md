@@ -1,6 +1,6 @@
 👋 Hi, I’m @memosiki
 
-👀 I’m interested in a remote job as a Python Backend Developer. Main skills: Django/aiohttp PostgresSQL/ClickHouse 3 years work experience.
+👀 I’m interested in a remote job as a Python Backend Developer. Django/aiohttp PostgresSQL/ClickHouse with 3 years work experience.
 
 🌱 I’m currently learning Go for recreational purposes.
 
